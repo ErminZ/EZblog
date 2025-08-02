@@ -1,0 +1,23 @@
+---
+layout: default
+title: Ermin Zhao
+---
+
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+  <h1>Highlighted Media</h1>
+  <ul class="posts">
+
+
+  <h1>Noteworthy Open Source Projects and Specifications</h1>
+  <ul class="posts">
+    <li><a href="http://github.com/jekyll/jekyll/">Jekyll:</a> A simple, blog aware, static site generator (used for this site).</li>
+    <li><a href="http://github.com/toml-lang/toml">TOML:</a> Tom's Obvious, Minimal Language.</li>
+  </ul>
+</div>
