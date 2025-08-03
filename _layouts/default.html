@@ -13,7 +13,7 @@
    <link rel="stylesheet" href="{{ site.baseurl }}/css/screen.css" type="text/css" media="screen, projection" />
 
    <!-- Typekit -->
-   <script type="text/javascript" src="http://use.typekit.com/jpd0pfm.js"></script>
+   <script type="text/javascript" src="{{ site.baseurl }}/js/typekit.js"></script>
    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 </head>
 <body>
@@ -26,8 +26,8 @@ var WRInitTime=(new Date()).getTime();
 
 <div class="site">
   <div class="title">
-    <a href="{{ site.baseurl }}/">Ermin Zhao</a>
-    <a class="extra" href="{{ site.baseurl }}/">home</a>
+    <a href="{{ site.baseurl }}{{ site.baseurl }}/">Ermin Zhao</a>
+    <a class="extra" href="{{ site.baseurl }}{{ site.baseurl }}/">home</a>
   </div>
 
   {{ content }}
