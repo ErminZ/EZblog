@@ -11,7 +11,7 @@ Hi — I’m **Ermin Zhao**, a computational biologist exploring how AI and mach
 
 **EZblog** is where I share hands-on notes, workflows, and reflections from my work — including:
 
-- 🔬 Bioinformatics pipelines (e.g., single-cell, VCF, 10X)
+- 🔬 Bioinformatics pipelines (e.g., single-cell, antibody design)
 - 🤖 ML tools and models applied to biology
 - 🧰 Technical tips (Python, Nextflow, Docker, AWS)
 - 📓 Project logs, failures, and lessons learned
