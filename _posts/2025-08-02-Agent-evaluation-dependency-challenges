@@ -100,17 +100,3 @@ Another LLM-based agent (Claude) was tested as a fallback but encountered other 
 In this early test, the AI agent demonstrated promising capabilities in quickly drafting a new analysis workflow, particularly for less familiar tasks. However, repeatability and deployment remain major blockers, for example the environment setup and Docker builds.
 
 
-
-
-
-
-```
-Ask agent and generated a new Dockerfile with Error #2: ` 
-
-
-
-
-
-
-
-
