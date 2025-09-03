@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Testing a Bioinformatics AI Agent – Tahoe Reference Run"
+title: "Testing a Bioinformatics AI Agent – Tahoe Inference Run"
 date: 2025-09-02
 categories: [AI, Bioinformatics, Reproducibility]
 ---
@@ -52,7 +52,7 @@ When I raised the concern, the agent acknowledged the issue right away:
 
 “You’re absolutely correct. The notebooks I created are using a minimal/dummy implementation, NOT the actual public STATE model. This would NOT give reproducible results from the Tahoe papers.”
 
-
+---
 ### My Reflection
 
 Working through this test felt a bit like being an examiner: I had to review the steps, trace definitions like StateInferenceEngine, and double-check where imports came from. That extra work took almost an hour before I could pinpoint the gap between “demo workflow” and “real Tahoe reproducibility.”
