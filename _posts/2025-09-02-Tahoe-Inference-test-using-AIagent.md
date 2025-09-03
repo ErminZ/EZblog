@@ -5,7 +5,7 @@ date: 2025-09-02
 categories: [AI, Bioinformatics, Reproducibility]
 ---
 
-Recently, I tested a bioinformatics AI agent on the **Tahoe reference run**. The experience was both fascinating and instructive. I want to share some notes here — not as a critique, but as constructive feedback on what worked well and what can improve.
+Recently, I tested a bioinformatics AI agent on the **Tahoe inference run** for chemicals perturbation prediction. The experience was both fascinating and instructive. I want to share some notes here — not as a critique, but as constructive feedback on what worked well and what can improve.
 
 ---
 
@@ -43,7 +43,7 @@ predictions = inference_engine.run_inference(
     perturbation_column=config['data']['perturbation_column']
 )
 ```
-Looking closer, I realized the agent had created its own MinimalStateModel inside the notebook rather than using the official STATE model from Arc Institute.
+Looking closer, I realized the agent had created its own `MinimalStateModel` inside the notebook rather than using the official STATE model from Arc Institute.
 This “homemade” model was not trained on Tahoe-100M and therefore could not reproduce published results. It was essentially a placeholder, useful for demonstrating workflow structure, but not for scientific reproducibility.
 
 
