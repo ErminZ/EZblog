@@ -52,7 +52,7 @@ In this way, working with the AI agent felt a bit like **mentoring**—the poten
 When I tested another input sequence, the agent performed better—filtering based on length and producing ~100 sequences, which is much closer to the expected scale. Although a cross validation is needed.
 
 
-AI in bioinformatics is promising, but not plug-and-play. Success depends on **collaboration between the agent and the human expert**. The AI provides structure and speed, while the bioinformatics scientist ensures biological relevance, makes key decisions, and interprets or ** debugs** the agent's work when needed.   
+AI in bioinformatics is promising, but not plug-and-play. Success depends on **collaboration between the agent and the human expert**. The AI provides structure and speed, while the bioinformatics scientist ensures biological relevance, makes key decisions, and interprets or **debugs** the agent's work when needed.   
 
 This experience left me encouraged: the agent is useful today, and with the right mentorship, it could grow into a powerful research partner.  
 
