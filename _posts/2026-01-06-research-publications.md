@@ -7,41 +7,39 @@ categories: research publications
 
 # My Research Publications
 
-This page catalogs my research contributions across food science, microbiology, immunology, and biotechnology.
+This page catalogs my research contributions across bioinformatics, genomics, microbiology, immunology, chemistry and biotechnology.
 
 ## Peer-Reviewed Journal Articles
 
 **2022**
-- **Microbial enzymes induce colitis by reactivating triclosan in the mouse gastrointestinal tract.** *Nature Communications* 13, 136 (2022). [https://www.nature.com/articles/s41467-021-27762-y](https://www.nature.com/articles/s41467-021-27762-y)  
-This work revealed the mechanism by which gut microbiota metabolize triclosan, contributing to inflammatory effects in the GI tract.
+- Jianan Z, …, **Ermin Zhao**, et al. **Microbial enzymes induce colitis by reactivating triclosan in the mouse gastrointestinal tract.**  [https://www.nature.com/articles/s41467-021-27762-y](*Nature Communications* 13, 136 (2022).)  
 
 **2021**
-- **Inhibition of immunotoxicity of Pb²⁺-induced RAW264.7 macrophages by selenium species in selenium-enriched rice.** *Food Chemistry & Toxicology* 148, 111943 (2021). [https://pubmed.ncbi.nlm.nih.gov/33359324/](https://pubmed.ncbi.nlm.nih.gov/33359324/)  
-Demonstrated the protective effects of selenium species against lead-induced immune toxicity.
+- Cao X., …, **Zhao E**., et al. **Inhibition of immunotoxicity of Pb²⁺-induced RAW264.7 macrophages by selenium species in selenium-enriched rice.**  [https://pubmed.ncbi.nlm.nih.gov/33359324/](*Food Chemistry & Toxicology* 148, 111943 (2021).)  
 
 **2020**
-- **Foodborne Titanium Dioxide Nanoparticles Induce Stronger Adverse Effects in Obese Mice than Non-Obese Mice: Gut Microbiota Dysbiosis, Colonic Inflammation, and Proteome Alterations.** *Small* 16, 2001858 (2020). [https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.202001858](https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.202001858)  
+- **Foodborne Titanium Dioxide Nanoparticles Induce Stronger Adverse Effects in Obese Mice than Non-Obese Mice: Gut Microbiota Dysbiosis, Colonic Inflammation, and Proteome Alterations.** [https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.202001858](*Small* 16, 2001858 (2020).)  
 
 **2019**
-- **Isolation and identification of immunomodulatory selenium-containing peptides from selenium-enriched rice protein hydrolysates.** *Food Chemistry* 275, 696-702 (2019). [https://pubmed.ncbi.nlm.nih.gov/30724251/](https://pubmed.ncbi.nlm.nih.gov/30724251/)  
+- Y Fang, X Pan, **E Zhao**, et al. **Isolation and identification of immunomodulatory selenium-containing peptides from selenium-enriched rice protein hydrolysates.**  [https://pubmed.ncbi.nlm.nih.gov/30724251/](*Food Chemistry* 275, 696-702 (2019).)  
 
-- **Effect of enzyme types on the stability of oil-in-water emulsions formed with rice protein hydrolysates.** *Science of Food and Agriculture* (2019)[https://scijournals.onlinelibrary.wiley.com/doi/10.1002/jsfa.9955].  
+- Xin Pan, …, **Ermin Zhao**, et al. **Effect of enzyme types on the stability of oil-in-water emulsions formed with rice protein hydrolysates.** [https://scijournals.onlinelibrary.wiley.com/doi/10.1002/jsfa.9955](*Science of Food and Agriculture* (2019).)  
 
 **2017**
-- **In vitro and in vivo inhibitory effects of a Pleurotus eryngii protein on colon cancer cells.** *Food & Functions* (2017)[https://pubs.rsc.org/en/content/articlelanding/2017/fo/c7fo00895c].  
+- Biao Yuan, …, **Ermin Zhao**, et al. **In vitro and in vivo inhibitory effects of a Pleurotus eryngii protein on colon cancer cells.** [https://pubs.rsc.org/en/content/articlelanding/2017/fo/c7fo00895c](*Food & Functions* (2017).)  
 Identified anticancer properties of mushroom-derived proteins.
 
-- **Determination of Trace Selenium in Enzymatic Hydrolysates of Rice by Direct Injection-Inductively Coupled Plasma-Mass Spectrometry.** *Chinese Journal of Food Science* (2017).  
+- **Ermin Zhao**, et al. **Determination of Trace Selenium in Enzymatic Hydrolysates of Rice by Direct Injection-Inductively Coupled Plasma-Mass Spectrometry.** *Chinese Journal of Food Science* (2017).  
 Developed analytical methods for selenium quantification.
 
 **2016**
-- **Effects of Selenium on Nutritional Quality and Antioxidant Enzyme Activities of Pleurotus eryngii.** *Food Science* (2016).  
+- **Ermin Zhao**, et al. **Effects of Selenium on Nutritional Quality and Antioxidant Enzyme Activities of Pleurotus eryngii.** *Food Science* (2016).  
 Explored selenium biofortification in edible mushrooms.
 
 ## Conference Presentations
 
 **2024**
-– ** Multimodal Atlas of Paired Diagnosis/Relapse AML.** ASH
+– **Multimodal Atlas of Paired Diagnosis/Relapse AML.** ASH
 
 **2023**
 - **Leveraging CRISPR/Cas9 and HDR to create an engineered CD33 CAR-T to treat AML.** Keystone.
@@ -67,10 +65,9 @@ Explored selenium biofortification in edible mushrooms.
 ## Research Themes
 
 My work spans several interconnected areas:
-- Biofortification and bioactive peptides
+- Bioinformatics and genomics 
+- Bioactive peptides and protein
 - Gut microbiota-xenobiotic interactions
-- Food nanotoxicology
 - Cancer immunotherapy and gene editing
-- Agricultural biotechnology
 
 For full-text PDFs or collaboration inquiries, please contact me through GitHub or the contact information in my profile.
