@@ -29,17 +29,17 @@ This page catalogs my research contributions across bioinformatics, genomics, mi
 
 ## Conference Presentations
 
-- Multimodal Atlas of Paired Diagnosis/Relapse AML. *American Society of Hematology (ASH) Annual Meeting*, 2024.
+- Multimodal Atlas of Paired Diagnosis and Relapse AML Reveals Surface Antigens. *American Society of Hematology (ASH) Annual Meeting*, 2024.[https://ashpublications.org/blood/article/144/Supplement%201/1558/529154/Multimodal-Atlas-of-Paired-Diagnosis-and-Relapse](https://doi.org/10.1182/blood-2024-205147)
 
-- Leveraging CRISPR/Cas9 and HDR to create an engineered CD33 CAR-T to treat AML. *Keystone Symposia*, 2023.
+- Leveraging CRISPR/Cas9 and HDR to create an engineered CD33 CAR-T to treat AML. *Keystone Symposia*, 2023.[https://jitc.bmj.com/content/12/Suppl_2/A1212](https://doi.org/10.1136/jitc-2024-SITC2024.1092)
 
 - Developing a Bioinformatic Pipeline to Analyze RNA Splicing and Expression for Oral Vaccines. *RNA Biology Conference*, 2022.
 
 - Gut microbiota-mediated biotransformation of selected polyphenols. *American Chemical Society (ACS) National Meeting*, 2021.
 
-- Identification and characterization of curcumin-metabolizing gut bacteria. *[ACS Meeting]*, 2019.
+- Identification and characterization of curcumin-metabolizing gut bacteria. *ACS Meeting*, 2019.
 
-- Gut Microbiota-Mediated Colonic Metabolism of Triclosan Contributes to its Proinflammatory Effects. *[FASEB Journal]*, 2019.[https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.2019.33.1_supplement.lb18](https://doi.org/10.1096/fasebj.2019.33.1_supplement.lb18)
+- Gut Microbiota-Mediated Colonic Metabolism of Triclosan Contributes to its Proinflammatory Effects. *FASEB Journal*, 2019. [https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.2019.33.1_supplement.lb18](https://doi.org/10.1096/fasebj.2019.33.1_supplement.lb18)
 
 ## Patents
 
