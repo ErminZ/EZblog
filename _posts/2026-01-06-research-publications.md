@@ -11,61 +11,46 @@ This page catalogs my research contributions across bioinformatics, genomics, mi
 
 ## Peer-Reviewed Journal Articles
 
-**2022**
-- Jianan Z, …, **Ermin Zhao**, et al. **Microbial enzymes induce colitis by reactivating triclosan in the mouse gastrointestinal tract.**  [https://www.nature.com/articles/s41467-021-27762-y](*Nature Communications* 13, 136 (2022).)  
+- Jianan Z., …, **Zhao E.**, et al. (2022). Microbial enzymes induce colitis by reactivating triclosan in the mouse gastrointestinal tract. *Nature Communications*, 13, 136. [https://doi.org/10.1038/s41467-021-27762-y](https://www.nature.com/articles/s41467-021-27762-y)
 
-**2021**
-- Cao X., …, **Zhao E**., et al. **Inhibition of immunotoxicity of Pb²⁺-induced RAW264.7 macrophages by selenium species in selenium-enriched rice.**  [https://pubmed.ncbi.nlm.nih.gov/33359324/](*Food Chemistry & Toxicology* 148, 111943 (2021).)  
+- Wu J., …, **Zhao E.**, et al. (2021). Inhibition of immunotoxicity of Pb²⁺-induced RAW264.7 macrophages by selenium species in selenium-enriched rice. *Food and Chemical Toxicology*, 148, 111943. [https://doi.org/10.1016/j.fct.2020.111943](https://pubmed.ncbi.nlm.nih.gov/33359324/)
 
-**2020**
-- **Foodborne Titanium Dioxide Nanoparticles Induce Stronger Adverse Effects in Obese Mice than Non-Obese Mice: Gut Microbiota Dysbiosis, Colonic Inflammation, and Proteome Alterations.** [https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.202001858](*Small* 16, 2001858 (2020).)  
+- Cao X., …, **Zhao E.**, et al. (2020). Foodborne Titanium Dioxide Nanoparticles Induce Stronger Adverse Effects in Obese Mice than Non-Obese Mice: Gut Microbiota Dysbiosis, Colonic Inflammation, and Proteome Alterations. *Small*, 16(46), 2001858. [https://doi.org/10.1002/smll.202001858](https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.202001858)
 
-**2019**
-- Y Fang, X Pan, **E Zhao**, et al. **Isolation and identification of immunomodulatory selenium-containing peptides from selenium-enriched rice protein hydrolysates.**  [https://pubmed.ncbi.nlm.nih.gov/30724251/](*Food Chemistry* 275, 696-702 (2019).)  
+- Fang Y., Pan X., **Zhao E.**, et al. (2019). Isolation and identification of immunomodulatory selenium-containing peptides from selenium-enriched rice protein hydrolysates. *Food Chemistry*, 275, 696-702. [https://doi.org/10.1016/j.foodchem.2018.09.137](https://pubmed.ncbi.nlm.nih.gov/30724251/)
 
-- Xin Pan, …, **Ermin Zhao**, et al. **Effect of enzyme types on the stability of oil-in-water emulsions formed with rice protein hydrolysates.** [https://scijournals.onlinelibrary.wiley.com/doi/10.1002/jsfa.9955](*Science of Food and Agriculture* (2019).)  
+- Pan X., …, **Zhao E.**, et al. (2019). Effect of enzyme types on the stability of oil-in-water emulsions formed with rice protein hydrolysates. *Journal of the Science of Food and Agriculture*. [https://doi.org/10.1002/jsfa.9955](https://scijournals.onlinelibrary.wiley.com/doi/10.1002/jsfa.9955)
 
-**2017**
-- Biao Yuan, …, **Ermin Zhao**, et al. **In vitro and in vivo inhibitory effects of a Pleurotus eryngii protein on colon cancer cells.** [https://pubs.rsc.org/en/content/articlelanding/2017/fo/c7fo00895c](*Food & Functions* (2017).)  
-Identified anticancer properties of mushroom-derived proteins.
+- Yuan B., …, **Zhao E.**, et al. (2017). In vitro and in vivo inhibitory effects of a Pleurotus eryngii protein on colon cancer cells. *Food & Function*. [https://doi.org/10.1039/C7FO00895C](https://pubs.rsc.org/en/content/articlelanding/2017/fo/c7fo00895c)
 
-- **Ermin Zhao**, et al. **Determination of Trace Selenium in Enzymatic Hydrolysates of Rice by Direct Injection-Inductively Coupled Plasma-Mass Spectrometry.** *Chinese Journal of Food Science* (2017).  
-Developed analytical methods for selenium quantification.
+- **Zhao, E.**, et al. (2017). Determination of Trace Selenium in Enzymatic Hydrolysates of Rice by Direct Injection-Inductively Coupled Plasma-Mass Spectrometry. *Chinese Journal of Food Science*.
 
-**2016**
-- **Ermin Zhao**, et al. **Effects of Selenium on Nutritional Quality and Antioxidant Enzyme Activities of Pleurotus eryngii.** *Food Science* (2016).  
-Explored selenium biofortification in edible mushrooms.
+- **Zhao, E.**, et al. (2016). Effects of Selenium on Nutritional Quality and Antioxidant Enzyme Activities of Pleurotus eryngii. *Food Science*.
 
 ## Conference Presentations
 
-**2024**
-– **Multimodal Atlas of Paired Diagnosis/Relapse AML.** ASH
+- Multimodal Atlas of Paired Diagnosis/Relapse AML. *American Society of Hematology (ASH) Annual Meeting*, 2024.
 
-**2023**
-- **Leveraging CRISPR/Cas9 and HDR to create an engineered CD33 CAR-T to treat AML.** Keystone.
+- Leveraging CRISPR/Cas9 and HDR to create an engineered CD33 CAR-T to treat AML. *Keystone Symposia*, 2023.
 
-**2022**
-- **Developing a Bioinformatic Pipeline to Analyze RNA Splicing and Expression for Oral Vaccines.** RNA biology.
+- Developing a Bioinformatic Pipeline to Analyze RNA Splicing and Expression for Oral Vaccines. *RNA Biology Conference*, 2022.
 
-**2021**
-- **Gut microbiota-mediated biotransformation of selected polyphenols.** ACS Meeting Abstract. Investigated microbial genomics and metabolism of dietary compounds.
+- Gut microbiota-mediated biotransformation of selected polyphenols. *American Chemical Society (ACS) National Meeting*, 2021.
 
-**2019**
-- **Identification and characterization of curcumin-metabolizing gut bacteria.** Conference abstract. Characterized bacterial species involved in curcumin metabolism.
+- Identification and characterization of curcumin-metabolizing gut bacteria. *[ACS Meeting]*, 2019.
 
-- **Gut Microbiota-Mediated Colonic Metabolism of Triclosan Contributes to its Proinflammatory Effects.** Conference abstract. Early findings on triclosan-microbiome interactions.
+- Gut Microbiota-Mediated Colonic Metabolism of Triclosan Contributes to its Proinflammatory Effects. *[FASEB Journal]*, 2019.[https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.2019.33.1_supplement.lb18](https://doi.org/10.1096/fasebj.2019.33.1_supplement.lb18)
 
 ## Patents
 
-**2018**
-- **A Foliar Fertilizer and its Application Method for the Rich Selenium Kiwi Fruit Production.** Chinese Patent CN105237239B. Agricultural biotechnology innovation for selenium biofortification.
+- A Foliar Fertilizer and its Application Method for the Rich Selenium Kiwi Fruit Production. *Chinese Patent* CN105237239B, 2018.
 
 ---
 
 ## Research Themes
 
 My work spans several interconnected areas:
-- Bioinformatics and genomics 
+- Bioinformatics and genomics
 - Bioactive peptides and protein
 - Gut microbiota-xenobiotic interactions
 - Cancer immunotherapy and gene editing
